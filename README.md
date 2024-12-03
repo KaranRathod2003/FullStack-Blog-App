@@ -3,8 +3,8 @@
 
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/KaranRathod2003/FullStack-Blog-App.git
+    <!-- cd <repository-directory> -->
     ```
 
 2. Install dependencies:
