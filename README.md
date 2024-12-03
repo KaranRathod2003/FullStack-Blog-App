@@ -62,6 +62,3 @@
 
 - `stylesheets/style.css` - CSS styles
 
-## License
-
-This project is licensed under the MIT License.
