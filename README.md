@@ -15,8 +15,7 @@
 3. Set up environment variables:
     Create a `.env` file in the root directory and add the following variables:
     ```env
-    MONGODB_URI=<your-mongodb-uri>
-    JWT_SECRET=<your-jwt-secret>
+    JWT_SECRET='Secret_Key'
     ```
 
 4. Start the application:
